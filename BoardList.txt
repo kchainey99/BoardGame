@@ -1,0 +1,35 @@
+ boob ,0,1,basic
+ ball ,1,0,basic
+ start,0,0,basic
+ goat ,0,2,basic
+ limp ,0,3,basic
+nugget,0,4,basic
+ doll ,0,5,basic
+ahhhhh,0,6,basic
+ shiz ,1,6,basic
+ what ,2,6,basic
+ you  ,3,6,basic
+ say  ,4,6,basic
+ some-,5,6,basic
+ thing,6,6,basic
+ now  ,3,5,basic
+tigre ,3,4,basic
+tigger,3,3,basic
+please,5,2,basic
+ dude ,4,2,basic
+wheel ,3,2,basic
+still ,2,2,basic
+speak ,1,2,basic
+  to  ,2,0,basic
+ you  ,3,0,basic
+commit,4,0,basic
+soTire,5,0,basic
+ tired,5,1,basic
+ why  ,6,1,basic
+ Bob  ,7,1,basic
+Barker,7,2,basic
+ face ,7,3,basic
+ foot ,7,4,basic
+pinky ,6,4,basic
+ toe  ,6,5,basic
+ BANK ,10,0,bank
